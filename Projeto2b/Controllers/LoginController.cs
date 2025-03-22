@@ -54,7 +54,7 @@ namespace Projeto2b.Controllers
             return View();
 
         }
-        0
+        
         public IActionResult Cadastro ()
         {
             return View();
